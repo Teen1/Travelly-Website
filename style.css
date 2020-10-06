@@ -1,3 +1,9 @@
+/* Scrolling */
+* {
+scrollbehaviour: smooth;
+}
+
+
 /* Global Sizes */
 * {
   margin: 0;
